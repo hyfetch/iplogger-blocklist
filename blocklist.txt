@@ -50,3 +50,4 @@
 0.0.0.0 screenshot.best
 0.0.0.0 gamingfun.me
 0.0.0.0 stopify.co
+0.0.0.0 grabify.link
